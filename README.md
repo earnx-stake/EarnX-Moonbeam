@@ -19,6 +19,6 @@ You need to use the /set command to associate the id num (1 to 5) to your wallet
 
 Each EarnX delegator with a minimum of 100 GLMR delegation will receive a ticket number to participate in the weekly prize of 50 GLMR. The winner will be announced every saturday on the EarnX-Moonbeam bot. The winner will receive the tx hash of the transaction on monday. 
 
-# Contact
+### Contact
 
-jarbas#4214 and pfrp#1964 on the [Discord Collators Channel](https://discord.gg/ybZ5qCCj)
+jarbas#4214 and pfrp#1964 on the [Moonbeam Discord collators channel](https://discord.gg/ybZ5qCCj)
