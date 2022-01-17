@@ -19,7 +19,7 @@ You need to use the /set command to associate the id num (1 to 5) to your wallet
 
 ## Lottery rules
 
-Each EarnX delegator will receive an number to participate in the weekly prize of 50 GLMR. The winner will be announced every saturday on the EarnX-Moonbeam bot. The winner will receive the tx hash of the transfer right after its execution. 
+Each EarnX delegator will receive a number to participate in the weekly prize of 50 GLMR. The winner will be announced every saturday on the EarnX-Moonbeam bot. The winner will receive the tx hash of the transfer right after its execution. 
 
 ### Contact
 
