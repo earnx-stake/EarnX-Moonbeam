@@ -3,7 +3,7 @@ EarnX-Moonbeam is a Telegram bot developed by EarnX team with the aim of helping
 
 As part of the EarnX-Moonbeam bot launch, we will run a lottery for EarnX delegators and the winners will get 50 GLMR as a weekly prize. The campaign will last 4 (four) weeks! 
 
-Please find the bot on Telegram as @EarnX-Moonbeam .
+Please find the bot on Telegram as @earnx_moonbeam_bot .
 
 **List of commands:**
 
