@@ -7,12 +7,13 @@ Please find the bot on Telegram as @EarnX-Moonbeam .
 
 **List of commands:**
 
-1. /help: list of the available commands;
-2. /set num address: register a wallet with the num id;
-3. /balance num: shows the balance of a wallet with the id num;
-4. /list: lists the wallet addresses registered;
-5. /lottery num: subscribe in the lottery the wallet address associated with de id num;
-6. /alarmBalance num target: configure an alarm that will trigger in threshold target to the wallet address associated with de id num;
+1. /start: initialize the bot;
+2. /help: list of the available commands;
+3. /set num address: register a wallet with the num id;
+4. /balance num: shows the balance of a wallet address with the id num;
+5. /list: lists the wallet addresses registered;
+6. /lottery num: subscribe in the lottery the wallet address associated with de id num;
+7. /alarmBalance num target: configure an alarm that will trigger in threshold target to the wallet address associated with de id num;
 
 You need to use the /set command to associate the id num (1 to 5) to your wallet addresses, so you can refer them on the other bot commands.
 
