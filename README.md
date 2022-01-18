@@ -13,13 +13,15 @@ Please find the bot on Telegram as @earnx_moonbeam_bot .
 4. /balance num: shows the balance of a wallet address with the id num;
 5. /list: lists the wallet addresses registered;
 6. /lottery num: subscribe in the lottery the wallet address associated with de id num;
-7. /alarmBalance num target: configure an alarm that will trigger in threshold target to the wallet address associated with de id num;
+7. /alarm-balance num value: configure an alarm that will trigger in threshold value to the wallet address associated with de id num;
 
 You need to use the /set command to associate the id num (1 to 5) to your wallet addresses, so you can refer them on the other bot commands.
 
 ## Lottery rules
 
 Each EarnX delegator will receive a number to participate in the weekly prize of 50 GLMR. The winner will be announced every saturday on the EarnX-Moonbeam bot. The winner will receive the tx hash of the transfer right after its execution. 
+
+We will publish the lottery algorithm here in the next days.
 
 ### Contact
 
