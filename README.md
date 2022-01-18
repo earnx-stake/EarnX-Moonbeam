@@ -17,7 +17,7 @@ Please find the bot on Telegram as @earnx_moonbeam_bot .
 
 You need to use the /set command to associate the id num (1 to 5) to your wallet addresses, so you can refer them on the other bot commands.
 
-It's important to highlight that all information that the bot handles are already public in the blockchain.
+It's important to highlight that all informations that the bot handles are already public in the blockchain.
 
 ## Lottery rules
 
