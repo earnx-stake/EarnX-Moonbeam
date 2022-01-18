@@ -19,7 +19,7 @@ You need to use the /set command to associate the id num (1 to 5) to your wallet
 
 ## Lottery rules
 
-Each EarnX delegator that subscribe to the lottery using the EarnX-Moonbeam bot will have a to participate in the weekly prize of 50 GLMR. The subscription must be done every week independently. The winner will be announced every sunday on the EarnX-Moonbeam github.  
+Each EarnX delegator that subscribe to the lottery using the EarnX-Moonbeam bot will have a chance to participate in the weekly prize of 50 GLMR. The subscription must be done every week independently. The winner will be announced every sunday on the EarnX-Moonbeam github.  
 
 We will publish the lottery algorithm here in the next days.
 
