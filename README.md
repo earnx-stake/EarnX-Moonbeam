@@ -1,4 +1,4 @@
-# EarnX-Moonbeam
+# EarnX-Moonbeam (this bot is deprecated - now we are using the MoonBot)
 EarnX-Moonbeam is a Telegram bot developed by EarnX team with the aim of helping Moonbeam community keep track of their balances, delegations and other variables of the blockchain. It's very common to verify your wallet address twice a day to check if the delegation rewards was distributed or even if you already have enough balance to bond more. Using EarnX-Moonbeam bot you can easily receive these notifications wherever you stay. 
 
 As part of the EarnX-Moonbeam bot launch, we will run a lottery for EarnX delegators and the winners will get 50 GLMR as a weekly prize. The campaign will last 4 (four) weeks! 
@@ -25,6 +25,4 @@ Each EarnX delegator that subscribe to the lottery using the EarnX-Moonbeam bot 
 
 We will publish the lottery algorithm here in the next days.
 
-### Contact
 
-jarbas#4214 and pfrp#1964 on the [Moonbeam Discord](https://discord.gg/ybZ5qCCj)
